@@ -1,0 +1,36 @@
+body {
+    text-align: center
+}
+img {
+width: 500px;
+    height: 800px;
+}
+#pic1 {
+    width: 700px;
+    height: 900px;
+}
+.line {
+    width: 70px;
+    height:8px;
+    color: black;
+}h1 {
+    font-size: 40px;
+}
+h2 {
+  font-size:35px;
+}
+#sec1 {
+    background-color: deepskyblue;
+}
+#sec2 {
+    background-color: blueviolet;
+}
+#sec3 {
+    background-color: aqua;
+}
+#sec4 {
+    background-color: deeppink;
+}
+#sec5 {
+    background-color: crimson;
+}
